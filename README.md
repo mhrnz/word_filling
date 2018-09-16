@@ -12,3 +12,5 @@
 # train file:
 # get_batch() : batch generator, returns a tensor of size [batch_size,window_size] containing indices of words in those windows , and random embeddings for blanks
 # train() : for training the model
+
+read General Tips.txt

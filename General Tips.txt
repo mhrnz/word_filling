@@ -1,0 +1,5 @@
+1- in a principal module you should not use file related functions such as pickle or ...
+   they should be used in the main part of the code or in an extra module
+2- the modules should be as independent as possible etc, words_to_int, get_words
+3- it is better to define the blank parameter as an input instead of middle
+4- I changed some parts and commented some others so the code maybe inconsistent
